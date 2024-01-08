@@ -13,6 +13,18 @@ Desenvolvedor backend
 </a>
 </div>
 
+**Trabalho mais com:**
+
+![Static Badge](https://img.shields.io/badge/Java-blue)
+![Static Badge](https://img.shields.io/badge/Eclipse-purple)
+![Static Badge](https://img.shields.io/badge/Spring_boot-green)
+![Static Badge](https://img.shields.io/badge/Mysql-blue)
+
+**Atualmente estudando:**
+
+![Static Badge](https://img.shields.io/badge/Kotlin-purple)
+![Static Badge](https://img.shields.io/badge/Ingl%C3%AAs-red)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcos-fc&show_icons=true&theme=dark)](https://github.com/marcos-fc/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=marcos-fc&theme=dark)](https://git.io/streak-stats)
