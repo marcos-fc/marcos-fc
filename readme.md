@@ -25,8 +25,8 @@ Desenvolvedor backend
 ![Static Badge](https://img.shields.io/badge/Kotlin-purple)
 ![Static Badge](https://img.shields.io/badge/Ingl%C3%AAs-red)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcos-fc&show_icons=true&theme=default)](https://github.com/marcos-fc)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcos-fc&show_icons=true&theme=gotham)](https://github.com/marcos-fc)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=marcos-fc&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=marcos-fc&theme=gotham)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-fc&layout=compact&theme=default)](https://github.com/marcos-fc)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-fc&layout=compact&theme=gotham)](https://github.com/marcos-fc)
