@@ -1,4 +1,4 @@
-# Olá! Eu sou Marcos Fernandes. Fique a vontade para espiar o que estou desenvolvendo.
+# Olá! Eu sou Marcos Fernandes.
 
 Desenvolvedor backend
 
@@ -19,11 +19,6 @@ Desenvolvedor backend
 ![Static Badge](https://img.shields.io/badge/Eclipse-purple)
 ![Static Badge](https://img.shields.io/badge/Spring_boot-green)
 ![Static Badge](https://img.shields.io/badge/Mysql-blue)
-
-**Atualmente estudando:**
-
-![Static Badge](https://img.shields.io/badge/Kotlin-purple)
-![Static Badge](https://img.shields.io/badge/Ingl%C3%AAs-red)
 
 [![marcos-fc's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcos-fc&show_icons=true&theme=chartreuse-dark)](https://github.com/marcos-fc)
 
